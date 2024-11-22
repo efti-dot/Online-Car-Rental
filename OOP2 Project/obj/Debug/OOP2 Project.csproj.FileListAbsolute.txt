@@ -1,0 +1,133 @@
+C:\Users\Ackerman\source\repos\OOP2 Project\OOP2 Project\bin\Debug\OOP2 Project.exe.config
+C:\Users\Ackerman\source\repos\OOP2 Project\OOP2 Project\bin\Debug\OOP2 Project.exe
+C:\Users\Ackerman\source\repos\OOP2 Project\OOP2 Project\bin\Debug\OOP2 Project.pdb
+C:\Users\Ackerman\source\repos\OOP2 Project\OOP2 Project\obj\Debug\OOP2 Project.csproj.AssemblyReference.cache
+C:\Users\Ackerman\source\repos\OOP2 Project\OOP2 Project\obj\Debug\OOP2 Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ackerman\source\repos\OOP2 Project\OOP2 Project\obj\Debug\OOP2_Project.TitanTech.resources
+C:\Users\Ackerman\source\repos\OOP2 Project\OOP2 Project\obj\Debug\OOP2_Project.Properties.Resources.resources
+C:\Users\Ackerman\source\repos\OOP2 Project\OOP2 Project\obj\Debug\OOP2 Project.csproj.GenerateResource.cache
+C:\Users\Ackerman\source\repos\OOP2 Project\OOP2 Project\obj\Debug\OOP2 Project.csproj.CoreCompileInputs.cache
+C:\Users\Ackerman\source\repos\OOP2 Project\OOP2 Project\obj\Debug\OOP2 Project.exe
+C:\Users\Ackerman\source\repos\OOP2 Project\OOP2 Project\obj\Debug\OOP2 Project.pdb
+C:\Users\Ackerman\source\repos\OOP2 Project\OOP2 Project\obj\Debug\OOP2_Project.Register.resources
+C:\Users\Ackerman\source\repos\OOP2 Project\OOP2 Project\obj\Debug\OOP2_Project.Admin.resources
+C:\Users\Ackerman\source\repos\OOP2 Project\OOP2 Project\obj\Debug\OOP2_Project.AddStaff.resources
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\obj\Debug\OOP2 Project.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\obj\Debug\OOP2 Project.exe
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\obj\Debug\OOP2 Project.pdb
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\bin\Debug\OOP2 Project.exe.config
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\bin\Debug\OOP2 Project.exe
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\bin\Debug\OOP2 Project.pdb
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\obj\Debug\OOP2_Project.AddStaff.resources
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\obj\Debug\OOP2_Project.Admin.resources
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\obj\Debug\OOP2_Project.TitanTech.resources
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\obj\Debug\OOP2_Project.Properties.Resources.resources
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\obj\Debug\OOP2_Project.Register.resources
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\obj\Debug\OOP2 Project.csproj.GenerateResource.cache
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\obj\Debug\OOP2 Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\obj\Debug\OOP2_Project.AddProduct.resources
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\obj\Debug\OOP2_Project.AddCasing.resources
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\obj\Debug\OOP2_Project.AddCpuCooler.resources
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\obj\Debug\OOP2_Project.AddGpu.resources
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\obj\Debug\OOP2_Project.AddHeadphone.resources
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\obj\Debug\OOP2_Project.AddKeyboard.resources
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\obj\Debug\OOP2_Project.AddMonitor.resources
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\obj\Debug\OOP2_Project.AddMotherboard.resources
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\obj\Debug\OOP2_Project.AddMouse.resources
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\obj\Debug\OOP2_Project.AddPowerSupply.resources
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\obj\Debug\OOP2_Project.AddProcessor.resources
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\obj\Debug\OOP2_Project.AddRam.resources
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\obj\Debug\OOP2_Project.AddStorage.resources
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\obj\Debug\OOP2_Project.RemoveProduct.resources
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\obj\Debug\OOP2_Project.RemoveStaff.resources
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\obj\Debug\OOP2_Project.Staff.resources
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\obj\Debug\OOP2_Project.AllProducts.resources
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\obj\Debug\OOP2_Project.AvailableProducts.resources
+C:\Users\User\Downloads\New folder (2)\OOP2 Project\OOP2 Project\OOP2 Project\obj\Debug\OOP2_Project.StockoutProducts.resources
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2 Project.csproj.AssemblyReference.cache
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2 Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2_Project.AddCasing.resources
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2_Project.AddCpuCooler.resources
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2_Project.AddGpu.resources
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2_Project.AddHeadphone.resources
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2_Project.AddKeyboard.resources
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2_Project.AddMonitor.resources
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2_Project.AddMotherboard.resources
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2_Project.AddMouse.resources
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2_Project.AddPowerSupply.resources
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2_Project.AddProcessor.resources
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2_Project.AddProduct.resources
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2_Project.AddRam.resources
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2_Project.AddStaff.resources
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2_Project.AddStorage.resources
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2_Project.Admin.resources
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2_Project.AllProducts.resources
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2_Project.AvailableProducts.resources
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2_Project.BuyProducts.resources
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2_Project.Customer.resources
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2_Project.TitanTech.resources
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2_Project.Properties.Resources.resources
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2_Project.Register.resources
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2_Project.Staff.resources
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2_Project.StockoutProducts.resources
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2 Project.csproj.GenerateResource.cache
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2 Project.csproj.CoreCompileInputs.cache
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2 Project.exe
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2 Project.pdb
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\bin\Debug\OOP2 Project.exe.config
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\bin\Debug\OOP2 Project.exe
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\bin\Debug\OOP2 Project.pdb
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2_Project.ApproveCustomer.resources
+C:\Users\Ackerman\Desktop\New folder\OOP2 Project\obj\Debug\OOP2_Project.RemoveStaff.resources
+D:\Object Oriented Programming 2\Project\rauf\OOP2 Project\obj\Debug\OOP2 Project.csproj.AssemblyReference.cache
+D:\Object Oriented Programming 2\Project\rauf\OOP2 Project\obj\Debug\OOP2 Project.exe
+D:\Object Oriented Programming 2\Project\rauf\OOP2 Project\obj\Debug\OOP2 Project.pdb
+C:\Users\Ackerman\Downloads\New folder (7)\rauf\OOP2 Project\bin\Debug\OOP2 Project.exe.config
+C:\Users\Ackerman\Downloads\New folder (7)\rauf\OOP2 Project\bin\Debug\OOP2 Project.exe
+C:\Users\Ackerman\Downloads\New folder (7)\rauf\OOP2 Project\bin\Debug\OOP2 Project.pdb
+C:\Users\Ackerman\Downloads\New folder (7)\rauf\OOP2 Project\obj\Debug\OOP2 Project.csproj.AssemblyReference.cache
+C:\Users\Ackerman\Downloads\New folder (7)\rauf\OOP2 Project\obj\Debug\OOP2 Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ackerman\Downloads\New folder (7)\rauf\OOP2 Project\obj\Debug\OOP2_Project.AddStaff.resources
+C:\Users\Ackerman\Downloads\New folder (7)\rauf\OOP2 Project\obj\Debug\OOP2_Project.Admin.resources
+C:\Users\Ackerman\Downloads\New folder (7)\rauf\OOP2 Project\obj\Debug\OOP2_Project.AllProducts.resources
+C:\Users\Ackerman\Downloads\New folder (7)\rauf\OOP2 Project\obj\Debug\OOP2_Project.ApproveCustomer.resources
+C:\Users\Ackerman\Downloads\New folder (7)\rauf\OOP2 Project\obj\Debug\OOP2_Project.AvailableProducts.resources
+C:\Users\Ackerman\Downloads\New folder (7)\rauf\OOP2 Project\obj\Debug\OOP2_Project.Customer.resources
+C:\Users\Ackerman\Downloads\New folder (7)\rauf\OOP2 Project\obj\Debug\OOP2_Project.TitanTech.resources
+C:\Users\Ackerman\Downloads\New folder (7)\rauf\OOP2 Project\obj\Debug\OOP2_Project.Properties.Resources.resources
+C:\Users\Ackerman\Downloads\New folder (7)\rauf\OOP2 Project\obj\Debug\OOP2_Project.Register.resources
+C:\Users\Ackerman\Downloads\New folder (7)\rauf\OOP2 Project\obj\Debug\OOP2_Project.RemoveStaff.resources
+C:\Users\Ackerman\Downloads\New folder (7)\rauf\OOP2 Project\obj\Debug\OOP2_Project.Staff.resources
+C:\Users\Ackerman\Downloads\New folder (7)\rauf\OOP2 Project\obj\Debug\OOP2_Project.StockoutProducts.resources
+C:\Users\Ackerman\Downloads\New folder (7)\rauf\OOP2 Project\obj\Debug\OOP2 Project.csproj.GenerateResource.cache
+C:\Users\Ackerman\Downloads\New folder (7)\rauf\OOP2 Project\obj\Debug\OOP2 Project.csproj.CoreCompileInputs.cache
+C:\Users\Ackerman\Downloads\New folder (7)\rauf\OOP2 Project\obj\Debug\OOP2 Project.exe
+C:\Users\Ackerman\Downloads\New folder (7)\rauf\OOP2 Project\obj\Debug\OOP2 Project.pdb
+C:\Users\Ackerman\Downloads\New folder (7)\rauf\OOP2 Project\obj\Debug\OOP2_Project.AddRemoveProduct.resources
+C:\Users\Ackerman\Downloads\New folder (7)\rauf\OOP2 Project\obj\Debug\OOP2_Project.BuyProduct.resources
+C:\Users\Ackerman\Downloads\New folder (7)\rauf\OOP2 Project\obj\Debug\OOP2_Project.BuildPC.resources
+C:\Users\Ackerman\Downloads\New folder (7)\rauf\OOP2 Project\obj\Debug\OOP2_Project.ShowOrder.resources
+G:\AUST\SD(V) 3.2\OOp2 Project Final\OOP2 Project\bin\Debug\OOP2 Project.exe.config
+G:\AUST\SD(V) 3.2\OOp2 Project Final\OOP2 Project\bin\Debug\OOP2 Project.exe
+G:\AUST\SD(V) 3.2\OOp2 Project Final\OOP2 Project\bin\Debug\OOP2 Project.pdb
+G:\AUST\SD(V) 3.2\OOp2 Project Final\OOP2 Project\obj\Debug\OOP2 Project.csproj.AssemblyReference.cache
+G:\AUST\SD(V) 3.2\OOp2 Project Final\OOP2 Project\obj\Debug\OOP2_Project.AddRemoveProduct.resources
+G:\AUST\SD(V) 3.2\OOp2 Project Final\OOP2 Project\obj\Debug\OOP2_Project.AddStaff.resources
+G:\AUST\SD(V) 3.2\OOp2 Project Final\OOP2 Project\obj\Debug\OOP2_Project.Admin.resources
+G:\AUST\SD(V) 3.2\OOp2 Project Final\OOP2 Project\obj\Debug\OOP2_Project.AllProducts.resources
+G:\AUST\SD(V) 3.2\OOp2 Project Final\OOP2 Project\obj\Debug\OOP2_Project.ApproveCustomer.resources
+G:\AUST\SD(V) 3.2\OOp2 Project Final\OOP2 Project\obj\Debug\OOP2_Project.AvailableProducts.resources
+G:\AUST\SD(V) 3.2\OOp2 Project Final\OOP2 Project\obj\Debug\OOP2_Project.BuildPC.resources
+G:\AUST\SD(V) 3.2\OOp2 Project Final\OOP2 Project\obj\Debug\OOP2_Project.BuyProduct.resources
+G:\AUST\SD(V) 3.2\OOp2 Project Final\OOP2 Project\obj\Debug\OOP2_Project.Customer.resources
+G:\AUST\SD(V) 3.2\OOp2 Project Final\OOP2 Project\obj\Debug\OOP2_Project.TitanTech.resources
+G:\AUST\SD(V) 3.2\OOp2 Project Final\OOP2 Project\obj\Debug\OOP2_Project.Properties.Resources.resources
+G:\AUST\SD(V) 3.2\OOp2 Project Final\OOP2 Project\obj\Debug\OOP2_Project.Register.resources
+G:\AUST\SD(V) 3.2\OOp2 Project Final\OOP2 Project\obj\Debug\OOP2_Project.RemoveStaff.resources
+G:\AUST\SD(V) 3.2\OOp2 Project Final\OOP2 Project\obj\Debug\OOP2_Project.ShowOrder.resources
+G:\AUST\SD(V) 3.2\OOp2 Project Final\OOP2 Project\obj\Debug\OOP2_Project.Staff.resources
+G:\AUST\SD(V) 3.2\OOp2 Project Final\OOP2 Project\obj\Debug\OOP2_Project.StockoutProducts.resources
+G:\AUST\SD(V) 3.2\OOp2 Project Final\OOP2 Project\obj\Debug\OOP2 Project.csproj.GenerateResource.cache
+G:\AUST\SD(V) 3.2\OOp2 Project Final\OOP2 Project\obj\Debug\OOP2 Project.csproj.CoreCompileInputs.cache
+G:\AUST\SD(V) 3.2\OOp2 Project Final\OOP2 Project\obj\Debug\OOP2 Project.exe
+G:\AUST\SD(V) 3.2\OOp2 Project Final\OOP2 Project\obj\Debug\OOP2 Project.pdb
